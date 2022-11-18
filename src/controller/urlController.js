@@ -1,5 +1,3 @@
-
-
 const urlModel = require("../model/model.js")
 const shortid = require('shortid');
 const validUrl = require('valid-url');    // <=== this package is not working
